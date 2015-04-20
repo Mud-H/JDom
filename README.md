@@ -10,4 +10,4 @@ support@j-cook.pro - http://www.j-cook.pro
 
 Plugin integration achieved by Girolamo Tomaselli:
 girotomaselli@gmail.com - http://bygiro.com
-[Test](Test)
+[Test](https://github.com/Mud-H/JDom/wiki)
